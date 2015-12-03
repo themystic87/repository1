@@ -1,3 +1,6 @@
+a {
+	display: none;
+}
 
 p {
 	display: none;
@@ -6,3 +9,4 @@ p {
 div {
 	color: #fff;
 }
+
